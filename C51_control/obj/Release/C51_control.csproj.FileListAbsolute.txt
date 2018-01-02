@@ -1,0 +1,10 @@
+H:\C#\WindowsFormsApp1\C51_control\bin\Release\C51_control.exe.config
+H:\C#\WindowsFormsApp1\C51_control\bin\Release\C51_control.exe
+H:\C#\WindowsFormsApp1\C51_control\bin\Release\C51_control.pdb
+H:\C#\WindowsFormsApp1\C51_control\obj\Release\C51_control.Form1.resources
+H:\C#\WindowsFormsApp1\C51_control\obj\Release\C51_control.Properties.Resources.resources
+H:\C#\WindowsFormsApp1\C51_control\obj\Release\C51_control.csproj.GenerateResource.Cache
+H:\C#\WindowsFormsApp1\C51_control\obj\Release\C51_control.csproj.CoreCompileInputs.cache
+H:\C#\WindowsFormsApp1\C51_control\obj\Release\C51_control.exe
+H:\C#\WindowsFormsApp1\C51_control\obj\Release\C51_control.pdb
+H:\C#\WindowsFormsApp1\C51_control\obj\Release\C51_control.csprojResolveAssemblyReference.cache
